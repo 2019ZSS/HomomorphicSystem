@@ -13,5 +13,5 @@ PyQt5-sip==12.7.1
 pyqt5-tools==5.13.0.1.5
 python-dateutil==2.8.1
 python-dotenv==0.11.0
-rsa==4.0
+rsa==4.1
 six==1.14.0
